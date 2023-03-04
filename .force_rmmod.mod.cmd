@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/op-tee/yzc/modules/force_rmmod/force_rmmod.mod := { echo  /home/ubuntu/op-tee/yzc/modules/force_rmmod/force_rmmod.o;  echo; } > /home/ubuntu/op-tee/yzc/modules/force_rmmod/force_rmmod.mod
